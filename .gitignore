@@ -1,0 +1,9 @@
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+*.d
+*.o
+*.obj
+.vscode/c_cpp_properties.json
